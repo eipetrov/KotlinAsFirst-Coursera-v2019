@@ -67,6 +67,7 @@ fun seconds(hours: Int, minutes: Int, seconds: Int): Int {
 }
 
 
+
 /**
  * Тривиальная
  *
