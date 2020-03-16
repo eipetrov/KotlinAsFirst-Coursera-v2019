@@ -66,6 +66,7 @@ fun seconds(hours: Int, minutes: Int, seconds: Int): Int {
     return a + b + c
 }
 
+
 /**
  * Тривиальная
  *
